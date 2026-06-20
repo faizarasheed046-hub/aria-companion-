@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+.env
+.venv/
+user_data/
+sessions.json
+chat_history.json
+__pycache__/
+*.pyc
